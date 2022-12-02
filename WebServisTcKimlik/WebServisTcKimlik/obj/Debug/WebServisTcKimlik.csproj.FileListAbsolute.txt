@@ -1,0 +1,11 @@
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\bin\Debug\WebServisTcKimlik.exe.config
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\bin\Debug\WebServisTcKimlik.exe
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\bin\Debug\WebServisTcKimlik.pdb
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.csproj.AssemblyReference.cache
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.csproj.SuggestedBindingRedirects.cache
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.Form1.resources
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.Properties.Resources.resources
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.csproj.GenerateResource.cache
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.csproj.CoreCompileInputs.cache
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.exe
+C:\Users\TRtekSK\Desktop\Backend\WebServisTcKimlik\WebServisTcKimlik\obj\Debug\WebServisTcKimlik.pdb
